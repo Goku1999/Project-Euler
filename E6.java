@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 import java.math.BigInteger;
-class ABC
+class E6
 {
     public static void main(String args[])
     {
